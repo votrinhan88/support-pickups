@@ -1,0 +1,1 @@
+Please see details at https://www.gta5-mods.com/scripts/support-for-infamoussabre-s-pickups

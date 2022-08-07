@@ -1290,4 +1290,44 @@
 		<Rotation x="180.0" y="-120.0" z="0.0"/>
 		<Group>2</Group>
 	</Pickup>
+
+	<!-- Criminal Enterprises DLC -->
+	<Pickup>
+		<DisplayName>Metal Detector</DisplayName>
+		<WeaponAsset>WEAPON_METALDETECTOR</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_METALDETECTOR</PickupAsset>
+		<WheelIcon>ICON_METALDETECTOR</WheelIcon>
+		<AmmoDisplayName>N/A</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_PISTOL_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>1</Group>
+	</Pickup>
+
+	<Pickup>
+		<DisplayName>Service Carbine</DisplayName>
+		<WeaponAsset>WEAPON_TACTICALRIFLE</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_TACTICALRIFLE</PickupAsset>
+		<WheelIcon>ICON_SERVICECARBINE</WheelIcon>
+		<AmmoDisplayName>5.56</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>2</Group>
+	</Pickup>
+
+	<Pickup>
+		<DisplayName>Precision Rifle</DisplayName>
+		<WeaponAsset>WEAPON_PRECISIONRIFLE</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_PRECISIONRIFLE</PickupAsset>
+		<WheelIcon>ICON_PRECISIONRIFLE</WheelIcon>
+		<AmmoDisplayName>7.62</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>2</Group>
+	</Pickup>
 </PickupData>

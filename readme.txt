@@ -3,11 +3,12 @@ Remember InfamousSabre's Pickups mod? !!! NOW COMES WITH UNINSTALLATION OIV !!!
 Unfortunately his mod does not support the latest DLC weapons. As far as I know he's busy right now so I tried continuing his work.
 
 FEATURING:
-Updating 13 DLC weapons:
+Updating 16 DLC weapons:
 + Arena War DLC: Up-n-Atomizer, Unholy Hellbringer, Widowmaker
 + The Diamond Casino Heist DLC: Ceramic Pistol, Navy Revolver, Hazardous Jerry Can
 + The Cayo Perico Heist DLC: Military Rifle, Combat Shotgun, Perico Pistol
 + The Contract DLC: Heavy Rifle, Stun Gun MP, Fertilizer Can, (*)Compact EMP Launcher
++ Criminal Enterprises DLC: Metal Detector, Service Carbine, Precision Rifle
 (*): So I dug deeper and discovered the .ydr files of Compact EMP Launcher (w_lr_compactml.ydr & w_lr_compactml_hi.ydr) don't have "Bounds" like other weapons --> I guess it's the reason why its pickup model couldn't be drawn as an individual object. Unless the next dlc_patch is released or someone is generous enough to redo its .ydr, then it is what it is. I don't know how to, but am happy with the current state anyway.
 
 Customized 8 slots (rearranged, based on michelangelo777):
@@ -26,6 +27,9 @@ Or 4 slots (original of InfamousSabre):
 + 3: Throwable
 
 Changelog:
+0.6.alpha (GTA V v1.61 Criminal Enterprises)
++ Add 3 new DLC weapons
+
 0.5.stable (GTA V v1.58 The Contract)
 + Add 4 new DLC weapons
 + Installation will automatically delete DamageEngine module

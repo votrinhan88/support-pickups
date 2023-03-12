@@ -47,8 +47,8 @@
 		<AmmoDisplayName>N/A</AmmoDisplayName>
 		<PickupSFX>HUD_CUSTOM_PICK_UP_MELEE_MASTER</PickupSFX>
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="0.2" y="0.05" z="-0.1"/>
-		<Rotation x="0.0" y="90.0" z="-0.0"/>
+		<Offset x="0.0" y="0.00" z="0.0"/>
+		<Rotation x="0.0" y="90.0" z="0.0"/>
 		<Group>2</Group>
 	</Pickup>
 
@@ -73,8 +73,8 @@
 		<AmmoDisplayName>N/A</AmmoDisplayName>
 		<PickupSFX>HUD_CUSTOM_PICK_UP_MELEE_MASTER</PickupSFX>
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="0.1" y="0.04" z="-0.1"/>
-		<Rotation x="0.0" y="90.0" z="-0.0"/>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="90.0" z="0.0"/>
 		<Group>2</Group>
 	</Pickup>
 
@@ -112,8 +112,8 @@
 		<AmmoDisplayName>N/A</AmmoDisplayName>
 		<PickupSFX>HUD_CUSTOM_PICK_UP_MELEE_MASTER</PickupSFX>
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="0.2" y="0.05" z="-0.1"/>
-		<Rotation x="0.0" y="90.0" z="-0.0"/>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="90.0" z="0.0"/>
 		<Group>2</Group>
 	</Pickup>
 
@@ -541,8 +541,8 @@
 		<AmmoDisplayName>9mm</AmmoDisplayName>
 		<PickupSFX>HUD_CUSTOM_PICK_UP_PISTOL_MASTER</PickupSFX>
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="-0.25" y="-0.01" z="-0.03"/>
-		<Rotation x="0.0" y="0.0" z="-5.0"/>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
 		<Group>2</Group>
 	</Pickup>
 
@@ -1330,4 +1330,58 @@
 		<Rotation x="0.0" y="0.0" z="0.0"/>
 		<Group>2</Group>
 	</Pickup>
+
+	<!-- Los Santos Drug Wars DLC -->
+	<Pickup>
+		<DisplayName>WM 29 Pistol</DisplayName>
+		<WeaponAsset>WEAPON_PISTOLXM3</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_PISTOLXM3</PickupAsset>
+		<WheelIcon>ICON_PISTOLXM3</WheelIcon>
+		<AmmoDisplayName>9mm</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_PISTOL_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>1</Group>
+	</Pickup>
+
+	<Pickup>
+		<DisplayName>Candy Cane</DisplayName>
+		<WeaponAsset>WEAPON_CANDYCANE</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_CANDYCANE</PickupAsset>
+		<WheelIcon>ICON_CANDYCANE</WheelIcon>
+		<AmmoDisplayName>N/A</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_MELEE_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="-0.3" y="-0.05" z="0.0"/>
+		<Rotation x="0.0" y="270.0" z="-0.0"/>
+		<Group>2</Group>
+	</Pickup>
+
+	<Pickup>
+		<DisplayName>Coil Railgun</DisplayName>
+		<WeaponAsset>WEAPON_RAILGUNXM3</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_RAILGUNXM3</PickupAsset>
+		<WheelIcon>ICON_RAILGUN</WheelIcon>
+		<AmmoDisplayName>N/A</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_WEAPON_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>2</Group>
+	</Pickup>
+
+	<!-- <Pickup>
+		<DisplayName>Acid Package</DisplayName>
+		<WeaponAsset>WEAPON_ACIDPACKAGE</WeaponAsset>
+		<PickupAsset></PickupAsset>
+		<WheelIcon>ICON_ACIDPACKAGE</WheelIcon>
+		<AmmoDisplayName>N/A</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_NON_FIREARM_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>1</Group>
+	</Pickup> -->
+</PickupData>
 </PickupData>

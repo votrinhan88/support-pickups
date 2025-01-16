@@ -1371,6 +1371,7 @@
 		<Group>2</Group>
 	</Pickup>
 
+	<!-- Does not have pickup -->
 	<!-- <Pickup>
 		<DisplayName>Acid Package</DisplayName>
 		<WeaponAsset>WEAPON_ACIDPACKAGE</WeaponAsset>
@@ -1383,5 +1384,58 @@
 		<Rotation x="0.0" y="0.0" z="0.0"/>
 		<Group>1</Group>
 	</Pickup> -->
-</PickupData>
+
+	<!-- San Andreas Mercenaries DLC -->
+	<Pickup>
+		<DisplayName>Tactical SMG</DisplayName>
+		<WeaponAsset>WEAPON_TECPISTOL</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_TECPISTOL</PickupAsset>
+		<WheelIcon>ICON_TECPISTOL</WheelIcon>
+		<AmmoDisplayName>9mm</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_PISTOL_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>2</Group>
+	</Pickup>
+
+	<!-- The Chop Shop DLC -->
+	<Pickup>
+		<DisplayName>Battle Rifle</DisplayName>
+		<WeaponAsset>WEAPON_BATTLERIFLE</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_BATTLERIFLE</PickupAsset>
+		<WheelIcon>ICON_BATTLERIFLE</WheelIcon>
+		<AmmoDisplayName>7.62</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>2</Group>
+	</Pickup>
+
+	<Pickup>
+		<DisplayName>Hacking Device</DisplayName>
+		<WeaponAsset>WEAPON_HACKINGDEVICE</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_HACKINGDEVICE</PickupAsset>
+		<WheelIcon>ICON_METALDETECTOR</WheelIcon>						        <!-- Reuse icon -->
+		<AmmoDisplayName>N/A</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_PISTOL_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>1</Group>
+	</Pickup>
+
+	<Pickup>
+		<DisplayName>Snowball Launcher</DisplayName>
+		<WeaponAsset>WEAPON_SNOWLAUNCHER</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_SNOWLAUNCHER</PickupAsset>
+		<WheelIcon>ICON_SNOWLAUNCHER</WheelIcon>
+		<AmmoDisplayName>Snowball</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_WEAPON_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>2</Group>
+	</Pickup>
 </PickupData>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PickupData>
+	<!-- Melee -->
 	<Pickup>
 		<DisplayName>Knife</DisplayName>
 		<WeaponAsset>WEAPON_KNIFE</WeaponAsset>
@@ -10,7 +11,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="-0.02"/>
 		<Rotation x="8.0" y="0.0" z="-90.0"/>
-		<Group>1</Group>
+		<Group>7</Group>
 	</Pickup>
 
 	<Pickup>
@@ -23,7 +24,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="-0.13" y="0.0" z="0.0"/>
 		<Rotation x="8.0" y="0.0" z="-90.0"/>
-		<Group>1</Group>
+		<Group>7</Group>
 	</Pickup>
 
 	<Pickup>
@@ -36,7 +37,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.27" y="-0.1" z="0.03"/>
 		<Rotation x="-8.0" y="0.0" z="90.0"/>
-		<Group>1</Group>
+		<Group>7</Group>
 	</Pickup>
 
 	<Pickup>
@@ -49,7 +50,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.00" z="0.0"/>
 		<Rotation x="0.0" y="90.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>7</Group>
 	</Pickup>
 
 	<Pickup>
@@ -62,7 +63,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="-0.3" y="-0.05" z="0.0"/>
 		<Rotation x="0.0" y="270.0" z="-0.0"/>
-		<Group>2</Group>
+		<Group>7</Group>
 	</Pickup>
 
 	<Pickup>
@@ -75,7 +76,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="90.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>7</Group>
 	</Pickup>
 
 	<Pickup>
@@ -88,7 +89,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.25" y="-0.1" z="0.01"/>
 		<Rotation x="-8.0" y="0.0" z="90.0"/>
-		<Group>1</Group>
+		<Group>7</Group>
 	</Pickup>
 
 	<Pickup>
@@ -101,7 +102,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="-0.02"/>
 		<Rotation x="8.0" y="0.0" z="-90.0"/>
-		<Group>1</Group>
+		<Group>7</Group>
 	</Pickup>
 
 	<Pickup>
@@ -114,7 +115,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="90.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>7</Group>
 	</Pickup>
 
 	<Pickup>
@@ -127,7 +128,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="-0.02"/>
 		<Rotation x="8.0" y="0.0" z="-90.0"/>
-		<Group>1</Group>
+		<Group>7</Group>
 	</Pickup>
 
 	<Pickup>
@@ -140,20 +141,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.25" y="-0.1" z="0.01"/>
 		<Rotation x="-8.0" y="0.0" z="90.0"/>
-		<Group>1</Group>
-	</Pickup>
-
-	<Pickup>
-		<DisplayName>Stone Hatchet</DisplayName>
-		<WeaponAsset>WEAPON_STONE_HATCHET</WeaponAsset>
-		<PickupAsset>PICKUP_WEAPON_STONE_HATCHET</PickupAsset>
-		<WheelIcon>ICON_STONE_HATCHET</WheelIcon>
-		<AmmoDisplayName>N/A</AmmoDisplayName>
-		<PickupSFX>HUD_CUSTOM_PICK_UP_MELEE_MASTER</PickupSFX>
-		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="0.25" y="-0.1" z="0.01"/>
-		<Rotation x="-8.0" y="0.0" z="90.0"/>
-		<Group>1</Group>
+		<Group>7</Group>
 	</Pickup>
 
 	<Pickup>
@@ -166,7 +154,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="-0.02"/>
 		<Rotation x="8.0" y="0.0" z="-90.0"/>
-		<Group>1</Group>
+		<Group>7</Group>
 	</Pickup>
 
 	<Pickup>
@@ -179,7 +167,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="-0.02"/>
 		<Rotation x="8.0" y="0.0" z="-90.0"/>
-		<Group>1</Group>
+		<Group>7</Group>
 	</Pickup>
 
 	<Pickup>
@@ -192,7 +180,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.25" y="-0.1" z="0.01"/>
 		<Rotation x="-8.0" y="0.0" z="90.0"/>
-		<Group>1</Group>
+		<Group>7</Group>
 	</Pickup>
 
 	<Pickup>
@@ -205,7 +193,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.1" y="0.0" z="-0.02"/>
 		<Rotation x="-90.0" y="90.0" z="-40.0"/>
-		<Group>1</Group>
+		<Group>7</Group>
 	</Pickup>
 
 	<Pickup>
@@ -218,9 +206,10 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.25" y="-0.1" z="0.01"/>
 		<Rotation x="-8.0" y="0.0" z="90.0"/>
-		<Group>1</Group>
+		<Group>7</Group>
 	</Pickup>
 
+	<!-- Handgun -->
 	<Pickup>
 		<DisplayName>Pistol</DisplayName>
 		<WeaponAsset>WEAPON_PISTOL</WeaponAsset>
@@ -231,20 +220,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>1</Group>
-	</Pickup>
-
-	<Pickup>
-		<DisplayName>Pistol MKII</DisplayName>
-		<WeaponAsset>WEAPON_PISTOL_MK2</WeaponAsset>
-		<PickupAsset>PICKUP_WEAPON_PISTOL_MK2</PickupAsset>
-		<WheelIcon>ICON_PISTOL_MK2</WheelIcon>
-		<AmmoDisplayName>9mm</AmmoDisplayName>
-		<PickupSFX>HUD_CUSTOM_PICK_UP_PISTOL_MASTER</PickupSFX>
-		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="0.0" y="0.0" z="0.0"/>
-		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>1</Group>
+		<Group>6</Group>
 	</Pickup>
 
 	<Pickup>
@@ -257,7 +233,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>1</Group>
+		<Group>6</Group>
 	</Pickup>
 
 	<Pickup>
@@ -270,7 +246,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>1</Group>
+		<Group>6</Group>
 	</Pickup>
 
 	<Pickup>
@@ -283,7 +259,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>1</Group>
+		<Group>6</Group>
 	</Pickup>
 
 	<Pickup>
@@ -296,7 +272,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>1</Group>
+		<Group>6</Group>
 	</Pickup>
 
 	<Pickup>
@@ -309,7 +285,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>1</Group>
+		<Group>6</Group>
 	</Pickup>
 
 	<Pickup>
@@ -322,7 +298,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>1</Group>
+		<Group>6</Group>
 	</Pickup>
 
 	<Pickup>
@@ -335,20 +311,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>1</Group>
-	</Pickup>
-
-	<Pickup>
-		<DisplayName>SNS Pistol MKII</DisplayName>
-		<WeaponAsset>WEAPON_SNSPISTOL_MK2</WeaponAsset>
-		<PickupAsset>PICKUP_WEAPON_SNSPISTOL_MK2</PickupAsset>
-		<WheelIcon>ICON_SNSPISTOL_MK2</WheelIcon>
-		<AmmoDisplayName>.38</AmmoDisplayName>
-		<PickupSFX>HUD_CUSTOM_PICK_UP_PISTOL_MASTER</PickupSFX>
-		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="0.0" y="0.0" z="0.0"/>
-		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>1</Group>
+		<Group>6</Group>
 	</Pickup>
 
 	<Pickup>
@@ -361,7 +324,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>1</Group>
+		<Group>6</Group>
 	</Pickup>
 
 	<Pickup>
@@ -372,35 +335,9 @@
 		<AmmoDisplayName>.38</AmmoDisplayName>
 		<PickupSFX>HUD_CUSTOM_PICK_UP_PISTOL_MASTER</PickupSFX>
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Offset x="-0.04" y="-0.02" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>1</Group>
-	</Pickup>
-
-	<Pickup>
-		<DisplayName>Revolver MKII</DisplayName>
-		<WeaponAsset>WEAPON_REVOLVER_MK2</WeaponAsset>
-		<PickupAsset>PICKUP_WEAPON_REVOLVER_MK2</PickupAsset>
-		<WheelIcon>ICON_REVOLVER_MK2</WheelIcon>
-		<AmmoDisplayName>.38</AmmoDisplayName>
-		<PickupSFX>HUD_CUSTOM_PICK_UP_PISTOL_MASTER</PickupSFX>
-		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="0.0" y="0.0" z="0.0"/>
-		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>1</Group>
-	</Pickup>
-
-	<Pickup>
-		<DisplayName>Double-Action Revolver</DisplayName>
-		<WeaponAsset>WEAPON_DOUBLEACTION</WeaponAsset>
-		<PickupAsset>PICKUP_WEAPON_DOUBLEACTION</PickupAsset>
-		<WheelIcon>ICON_DOUBLEACTION</WheelIcon>
-		<AmmoDisplayName>7.62</AmmoDisplayName>
-		<PickupSFX>HUD_CUSTOM_PICK_UP_PISTOL_MASTER</PickupSFX>
-		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="0.0" y="0.0" z="0.0"/>
-		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>1</Group>
+		<Group>6</Group>
 	</Pickup>
 
 	<Pickup>
@@ -413,9 +350,10 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>1</Group>
+		<Group>6</Group>
 	</Pickup>
 
+	<!-- Shotgun -->
 	<Pickup>
 		<DisplayName>Pump Shotgun</DisplayName>
 		<WeaponAsset>WEAPON_PUMPSHOTGUN</WeaponAsset>
@@ -424,22 +362,9 @@
 		<AmmoDisplayName>12g</AmmoDisplayName>
 		<PickupSFX>HUD_CUSTOM_PICK_UP_SHOTGUN_MASTER</PickupSFX>
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Offset x="0.0" y="0.0" z="0.05"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
-	</Pickup>
-
-	<Pickup>
-		<DisplayName>Pump Shotgun MKII</DisplayName>
-		<WeaponAsset>WEAPON_PUMPSHOTGUN_MK2</WeaponAsset>
-		<PickupAsset>PICKUP_WEAPON_PUMPSHOTGUN_MK2</PickupAsset>
-		<WheelIcon>ICON_PUMPSHOTGUN_MK2</WheelIcon>
-		<AmmoDisplayName>12g</AmmoDisplayName>
-		<PickupSFX>HUD_CUSTOM_PICK_UP_SHOTGUN_MASTER</PickupSFX>
-		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="0.0" y="0.0" z="0.0"/>
-		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>3</Group>
 	</Pickup>
 
 	<Pickup>
@@ -452,7 +377,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>3</Group>
 	</Pickup>
 
 	<Pickup>
@@ -465,7 +390,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>3</Group>
 	</Pickup>
 
 	<Pickup>
@@ -478,7 +403,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>3</Group>
 	</Pickup>
 
 	<Pickup>
@@ -491,7 +416,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>3</Group>
 	</Pickup>
 
 	<Pickup>
@@ -504,7 +429,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>3</Group>
 	</Pickup>
 
 	<Pickup>
@@ -517,7 +442,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>3</Group>
 	</Pickup>
 
 	<Pickup>
@@ -530,9 +455,10 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>3</Group>
 	</Pickup>
 
+	<!-- Submachine -->
 	<Pickup>
 		<DisplayName>Micro SMG</DisplayName>
 		<WeaponAsset>WEAPON_MICROSMG</WeaponAsset>
@@ -573,24 +499,11 @@
 	</Pickup>
 
 	<Pickup>
-		<DisplayName>SMG MKII</DisplayName>
-		<WeaponAsset>WEAPON_SMG_MK2</WeaponAsset>
-		<PickupAsset>PICKUP_WEAPON_SMG_MK2</PickupAsset>
-		<WheelIcon>ICON_SMG_MK2</WheelIcon>
-		<AmmoDisplayName>.40</AmmoDisplayName>
-		<PickupSFX>HUD_CUSTOM_PICK_UP_PISTOL_MASTER</PickupSFX>
-		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="0.0" y="0.0" z="0.0"/>
-		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
-	</Pickup>
-
-	<Pickup>
 		<DisplayName>Assault SMG</DisplayName>
 		<WeaponAsset>WEAPON_ASSAULTSMG</WeaponAsset>
 		<PickupAsset>PICKUP_WEAPON_ASSAULTSMG</PickupAsset>
 		<WheelIcon>ICON_ASSAULTSMG</WheelIcon>
-		<AmmoDisplayName>5.56</AmmoDisplayName>
+		<AmmoDisplayName>5.56x45</AmmoDisplayName>
 		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="-0.1" y="0.0" z="0.0"/>
@@ -612,16 +525,30 @@
 	</Pickup>
 
 	<Pickup>
-		<DisplayName>MG</DisplayName>
-		<WeaponAsset>WEAPON_MG</WeaponAsset>
-		<PickupAsset>PICKUP_WEAPON_MG</PickupAsset>
-		<WheelIcon>ICON_MG</WheelIcon>
-		<AmmoDisplayName>7.62</AmmoDisplayName>
-		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
+		<DisplayName>Machine Pistol</DisplayName>
+		<WeaponAsset>WEAPON_MACHINEPISTOL</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_MACHINEPISTOL</PickupAsset>
+		<WheelIcon>ICON_MACHINEPISTOL</WheelIcon>
+		<AmmoDisplayName>9mm</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_PISTOL_MASTER</PickupSFX>
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
 		<Group>2</Group>
+	</Pickup>
+
+	<!-- Light Machine Gun -->
+	<Pickup>
+		<DisplayName>MG</DisplayName>
+		<WeaponAsset>WEAPON_MG</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_MG</PickupAsset>
+		<WheelIcon>ICON_MG</WheelIcon>
+		<AmmoDisplayName>7.62x54 Belt</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>5</Group>
 	</Pickup>
 
 	<Pickup>
@@ -629,25 +556,12 @@
 		<WeaponAsset>WEAPON_COMBATMG</WeaponAsset>
 		<PickupAsset>PICKUP_WEAPON_COMBATMG</PickupAsset>
 		<WheelIcon>ICON_COMBATMG</WheelIcon>
-		<AmmoDisplayName>5.56</AmmoDisplayName>
+		<AmmoDisplayName>5.56x45 Belt</AmmoDisplayName>
 		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
-	</Pickup>
-
-	<Pickup>
-		<DisplayName>Combat MG MKII</DisplayName>
-		<WeaponAsset>WEAPON_COMBATMG_MK2</WeaponAsset>
-		<PickupAsset>PICKUP_WEAPON_COMBATMG_MK2</PickupAsset>
-		<WheelIcon>ICON_COMBATMG_MK2</WheelIcon>
-		<AmmoDisplayName>5.56</AmmoDisplayName>
-		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
-		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="0.0" y="0.0" z="0.0"/>
-		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>5</Group>
 	</Pickup>
 
 	<Pickup>
@@ -658,48 +572,23 @@
 		<AmmoDisplayName>.45 ACP</AmmoDisplayName>
 		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Offset x="0.0" y="0.0" z="0.05"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>5</Group>
 	</Pickup>
 
-	<Pickup>
-		<DisplayName>Machine Pistol</DisplayName>
-		<WeaponAsset>WEAPON_MACHINEPISTOL</WeaponAsset>
-		<PickupAsset>PICKUP_WEAPON_MACHINEPISTOL</PickupAsset>
-		<WheelIcon>ICON_MACHINEPISTOL</WheelIcon>
-		<AmmoDisplayName>9mm</AmmoDisplayName>
-		<PickupSFX>HUD_CUSTOM_PICK_UP_PISTOL_MASTER</PickupSFX>
-		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="0.0" y="0.0" z="0.0"/>
-		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>1</Group>
-	</Pickup>
-
+	<!-- Rifle -->
 	<Pickup>
 		<DisplayName>Assault Rifle</DisplayName>
 		<WeaponAsset>WEAPON_ASSAULTRIFLE</WeaponAsset>
 		<PickupAsset>PICKUP_WEAPON_ASSAULTRIFLE</PickupAsset>
 		<WheelIcon>ICON_ASSAULTRIFLE</WheelIcon>
-		<AmmoDisplayName>7.62</AmmoDisplayName>
+		<AmmoDisplayName>7.62x39</AmmoDisplayName>
 		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
-	</Pickup>
-
-	<Pickup>
-		<DisplayName>Assault Rifle MKII</DisplayName>
-		<WeaponAsset>WEAPON_ASSAULTRIFLE_MK2</WeaponAsset>
-		<PickupAsset>PICKUP_WEAPON_ASSAULTRIFLE_MK2</PickupAsset>
-		<WheelIcon>ICON_ASSAULTRIFLE_MK2</WheelIcon>
-		<AmmoDisplayName>7.62</AmmoDisplayName>
-		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
-		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="0.0" y="0.0" z="0.0"/>
-		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>3</Group>
 	</Pickup>
 
 	<Pickup>
@@ -707,25 +596,12 @@
 		<WeaponAsset>WEAPON_CARBINERIFLE</WeaponAsset>
 		<PickupAsset>PICKUP_WEAPON_CARBINERIFLE</PickupAsset>
 		<WheelIcon>ICON_CARBINERIFLE</WheelIcon>
-		<AmmoDisplayName>5.56</AmmoDisplayName>
+		<AmmoDisplayName>5.56x45</AmmoDisplayName>
 		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
-	</Pickup>
-
-	<Pickup>
-		<DisplayName>Carbine Rifle MKII</DisplayName>
-		<WeaponAsset>WEAPON_CARBINERIFLE_MK2</WeaponAsset>
-		<PickupAsset>PICKUP_WEAPON_CARBINERIFLE_MK2</PickupAsset>
-		<WheelIcon>ICON_CARBINERIFLE_MK2</WheelIcon>
-		<AmmoDisplayName>5.56</AmmoDisplayName>
-		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
-		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="0.0" y="0.0" z="0.0"/>
-		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>3</Group>
 	</Pickup>
 
 	<Pickup>
@@ -733,12 +609,12 @@
 		<WeaponAsset>WEAPON_ADVANCEDRIFLE</WeaponAsset>
 		<PickupAsset>PICKUP_WEAPON_ADVANCEDRIFLE</PickupAsset>
 		<WheelIcon>ICON_ADVANCEDRIFLE</WheelIcon>
-		<AmmoDisplayName>5.56</AmmoDisplayName>
+		<AmmoDisplayName>5.56x45</AmmoDisplayName>
 		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="-0.1" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>3</Group>
 	</Pickup>
 
 	<Pickup>
@@ -746,25 +622,12 @@
 		<WeaponAsset>WEAPON_SPECIALCARBINE</WeaponAsset>
 		<PickupAsset>PICKUP_WEAPON_SPECIALCARBINE</PickupAsset>
 		<WheelIcon>ICON_SPECIALCARBINE</WheelIcon>
-		<AmmoDisplayName>5.56</AmmoDisplayName>
+		<AmmoDisplayName>5.56x45</AmmoDisplayName>
 		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
-	</Pickup>
-
-	<Pickup>
-		<DisplayName>Special Carbine MKII</DisplayName>
-		<WeaponAsset>WEAPON_SPECIALCARBINE_MK2</WeaponAsset>
-		<PickupAsset>PICKUP_WEAPON_SPECIALCARBINE_MK2</PickupAsset>
-		<WheelIcon>ICON_SPECIALCARBINE_MK2</WheelIcon>
-		<AmmoDisplayName>5.56</AmmoDisplayName>
-		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
-		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="0.0" y="0.0" z="0.0"/>
-		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>3</Group>
 	</Pickup>
 
 	<Pickup>
@@ -772,25 +635,12 @@
 		<WeaponAsset>WEAPON_BULLPUPRIFLE</WeaponAsset>
 		<PickupAsset>PICKUP_WEAPON_BULLPUPRIFLE</PickupAsset>
 		<WheelIcon>ICON_BULLPUPRIFLE</WheelIcon>
-		<AmmoDisplayName>5.56</AmmoDisplayName>
+		<AmmoDisplayName>5.56x45</AmmoDisplayName>
 		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="-0.1" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
-	</Pickup>
-
-	<Pickup>
-		<DisplayName>Bullpup Rifle MKII</DisplayName>
-		<WeaponAsset>WEAPON_BULLPUPRIFLE_MK2</WeaponAsset>
-		<PickupAsset>PICKUP_WEAPON_BULLPUPRIFLE_MK2</PickupAsset>
-		<WheelIcon>ICON_BULLPUPRIFLE_MK2</WheelIcon>
-		<AmmoDisplayName>5.56</AmmoDisplayName>
-		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
-		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="-0.1" y="0.0" z="0.0"/>
-		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>3</Group>
 	</Pickup>
 
 	<Pickup>
@@ -798,25 +648,26 @@
 		<WeaponAsset>WEAPON_COMPACTRIFLE</WeaponAsset>
 		<PickupAsset>PICKUP_WEAPON_COMPACTRIFLE</PickupAsset>
 		<WheelIcon>ICON_COMPACTRIFLE</WheelIcon>
-		<AmmoDisplayName>5.56</AmmoDisplayName>
+		<AmmoDisplayName>5.45x39</AmmoDisplayName>
 		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="-0.2" y="-0.01" z="-0.03"/>
 		<Rotation x="0.0" y="0.0" z="-5.0"/>
-		<Group>2</Group>
+		<Group>3</Group>
 	</Pickup>
 
+	<!-- Sniper Rifle -->
 	<Pickup>
 		<DisplayName>Sniper Rifle</DisplayName>
 		<WeaponAsset>WEAPON_SNIPERRIFLE</WeaponAsset>
 		<PickupAsset>PICKUP_WEAPON_SNIPERRIFLE</PickupAsset>
 		<WheelIcon>ICON_SNIPERRIFLE</WheelIcon>
-		<AmmoDisplayName>7.62</AmmoDisplayName>
+		<AmmoDisplayName>7.62x51</AmmoDisplayName>
 		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>5</Group>
 	</Pickup>
 
 	<Pickup>
@@ -829,20 +680,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
-	</Pickup>
-
-	<Pickup>
-		<DisplayName>Heavy Sniper MKII</DisplayName>
-		<WeaponAsset>WEAPON_HEAVYSNIPER_MK2</WeaponAsset>
-		<PickupAsset>PICKUP_WEAPON_HEAVYSNIPER_MK2</PickupAsset>
-		<WheelIcon>ICON_HEAVYSNIPER_MK2</WheelIcon>
-		<AmmoDisplayName>.50 BMG</AmmoDisplayName>
-		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
-		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="0.0" y="0.0" z="0.0"/>
-		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>5</Group>
 	</Pickup>
 
 	<Pickup>
@@ -850,27 +688,15 @@
 		<WeaponAsset>WEAPON_MARKSMANRIFLE</WeaponAsset>
 		<PickupAsset>PICKUP_WEAPON_MARKSMANRIFLE</PickupAsset>
 		<WheelIcon>ICON_MARKSMANRIFLE</WheelIcon>
-		<AmmoDisplayName>7.62</AmmoDisplayName>
+		<AmmoDisplayName>7.62x51</AmmoDisplayName>
 		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>5</Group>
 	</Pickup>
 
-	<Pickup>
-		<DisplayName>Marksman Rifle MKII</DisplayName>
-		<WeaponAsset>WEAPON_MARKSMANRIFLE_MK2</WeaponAsset>
-		<PickupAsset>PICKUP_WEAPON_MARKSMANRIFLE_MK2</PickupAsset>
-		<WheelIcon>ICON_MARKSMANRIFLE_MK2</WheelIcon>
-		<AmmoDisplayName>7.62</AmmoDisplayName>
-		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
-		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="0.0" y="0.0" z="0.0"/>
-		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
-	</Pickup>
-
+	<!-- Throwable -->
 	<Pickup>
 		<DisplayName>Grenade</DisplayName>
 		<WeaponAsset>WEAPON_GRENADE</WeaponAsset>
@@ -881,7 +707,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>3</Group>
+		<Group>1</Group>
 	</Pickup>
 
 	<Pickup>
@@ -894,7 +720,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="220.0" z="-90.0"/>
-		<Group>3</Group>
+		<Group>1</Group>
 	</Pickup>
 
 	<Pickup>
@@ -907,7 +733,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0"/>
-		<Group>3</Group>
+		<Group>1</Group>
 	</Pickup>
 
 	<Pickup>
@@ -920,7 +746,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="220.0" z="-90.0"/>
-		<Group>3</Group>
+		<Group>1</Group>
 	</Pickup>
 
 	<Pickup>
@@ -933,7 +759,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>3</Group>
+		<Group>1</Group>
 	</Pickup>
 
 	<Pickup>
@@ -946,7 +772,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>3</Group>
+		<Group>1</Group>
 	</Pickup>
 
 	<Pickup>
@@ -959,33 +785,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>3</Group>
-	</Pickup>
-
-	<Pickup>
-		<DisplayName>Fire Extinguisher</DisplayName>
-		<WeaponAsset>WEAPON_FIREEXTINGUISHER</WeaponAsset>
-		<PickupAsset>PICKUP_WEAPON_FIREEXTINGUISHER</PickupAsset>
-		<WheelIcon>ICON_FIREEXTINGUISHER</WheelIcon>
-		<AmmoDisplayName>N/A</AmmoDisplayName>
-		<PickupSFX>HUD_CUSTOM_PICK_UP_NON_FIREARM_MASTER</PickupSFX>
-		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="0.25" y="0.025" z="-0.15"/>
-		<Rotation x="180.0" y="-120.0" z="0.0"/>
-		<Group>2</Group>
-	</Pickup>
-
-	<Pickup>
-		<DisplayName>Jerry Can</DisplayName>
-		<WeaponAsset>WEAPON_PETROLCAN</WeaponAsset>
-		<PickupAsset>PICKUP_WEAPON_PETROLCAN</PickupAsset>
-		<WheelIcon>ICON_PETROLCAN</WheelIcon>
-		<AmmoDisplayName>N/A</AmmoDisplayName>
-		<PickupSFX>HUD_CUSTOM_PICK_UP_PETROL_CAN_MASTER</PickupSFX>
-		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="-0.1" y="-0.05" z="0.0"/>
-		<Rotation x="180.0" y="-120.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>1</Group>
 	</Pickup>
 
 	<Pickup>
@@ -998,7 +798,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>3</Group>
+		<Group>1</Group>
 	</Pickup>
 
 	<Pickup>
@@ -1011,7 +811,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>3</Group>
+		<Group>1</Group>
 	</Pickup>
 
 	<Pickup>
@@ -1024,9 +824,37 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>3</Group>
+		<Group>1</Group>
 	</Pickup>
 
+	<!-- Miscellaneous -->
+	<Pickup>
+		<DisplayName>Fire Extinguisher</DisplayName>
+		<WeaponAsset>WEAPON_FIREEXTINGUISHER</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_FIREEXTINGUISHER</PickupAsset>
+		<WheelIcon>ICON_FIREEXTINGUISHER</WheelIcon>
+		<AmmoDisplayName>N/A</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_NON_FIREARM_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.25" y="0.025" z="-0.15"/>
+		<Rotation x="180.0" y="-120.0" z="0.0"/>
+		<Group>5</Group>
+	</Pickup>
+
+	<Pickup>
+		<DisplayName>Jerry Can</DisplayName>
+		<WeaponAsset>WEAPON_PETROLCAN</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_PETROLCAN</PickupAsset>
+		<WheelIcon>ICON_PETROLCAN</WheelIcon>
+		<AmmoDisplayName>N/A</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_PETROL_CAN_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="-0.1" y="-0.05" z="0.0"/>
+		<Rotation x="180.0" y="-120.0" z="0.0"/>
+		<Group>5</Group>
+	</Pickup>
+
+	<!-- Heavy Weapon -->
 	<Pickup>
 		<DisplayName>Grenade Launcher</DisplayName>
 		<WeaponAsset>WEAPON_GRENADELAUNCHER</WeaponAsset>
@@ -1037,7 +865,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>4</Group>
 	</Pickup>
 
 	<Pickup>
@@ -1050,7 +878,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>4</Group>
 	</Pickup>
 
 	<Pickup>
@@ -1063,7 +891,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="-0.3" y="-0.07" z="0.07"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>4</Group>
 	</Pickup>
 
 	<Pickup>
@@ -1071,12 +899,12 @@
 		<WeaponAsset>WEAPON_MINIGUN</WeaponAsset>
 		<PickupAsset>PICKUP_WEAPON_MINIGUN</PickupAsset>
 		<WheelIcon>ICON_MINIGUN</WheelIcon>
-		<AmmoDisplayName>7.62x51 Belt</AmmoDisplayName>
+		<AmmoDisplayName>7.62 MNG</AmmoDisplayName>
 		<PickupSFX>HUD_CUSTOM_PICK_UP_WEAPON_MASTER</PickupSFX>
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>4</Group>
 	</Pickup>
 
 	<Pickup>
@@ -1089,7 +917,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="-0.3" y="-0.07" z="0.07"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>4</Group>
 	</Pickup>
 
 	<Pickup>
@@ -1102,7 +930,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>4</Group>
 	</Pickup>
 
 	<Pickup>
@@ -1115,7 +943,192 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="-0.3" y="-0.07" z="0.07"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>4</Group>
+	</Pickup>
+
+	<!-- Gunrunning DLC -->
+	<Pickup>
+		<DisplayName>Pistol MK II</DisplayName>
+		<WeaponAsset>WEAPON_PISTOL_MK2</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_PISTOL_MK2</PickupAsset>
+		<WheelIcon>ICON_PISTOL_MK2</WheelIcon>
+		<AmmoDisplayName>9mm</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_PISTOL_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>6</Group>
+	</Pickup>
+	
+	<Pickup>
+		<DisplayName>SMG MK II</DisplayName>
+		<WeaponAsset>WEAPON_SMG_MK2</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_SMG_MK2</PickupAsset>
+		<WheelIcon>ICON_SMG_MK2</WheelIcon>
+		<AmmoDisplayName>.40</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_SMG_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
 		<Group>2</Group>
+	</Pickup>
+	
+	<Pickup>
+		<DisplayName>Assault Rifle MK II</DisplayName>
+		<WeaponAsset>WEAPON_ASSAULTRIFLE_MK2</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_ASSAULTRIFLE_MK2</PickupAsset>
+		<WheelIcon>ICON_ASSAULTRIFLE_MK2</WheelIcon>
+		<AmmoDisplayName>7.62x39mm</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>3</Group>
+	</Pickup>
+	
+	<Pickup>
+		<DisplayName>Carbine Rifle MK II</DisplayName>
+		<WeaponAsset>WEAPON_CARBINERIFLE_MK2</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_CARBINERIFLE_MK2</PickupAsset>
+		<WheelIcon>ICON_CARBINERIFLE_MK2</WheelIcon>
+		<AmmoDisplayName>5.56x45mm</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>3</Group>
+	</Pickup>
+	
+	<Pickup>
+		<DisplayName>Combat MG MK II</DisplayName>
+		<WeaponAsset>WEAPON_COMBATMG_MK2</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_COMBATMG_MK2</PickupAsset>
+		<WheelIcon>ICON_COMBATMG_MK2</WheelIcon>
+		<AmmoDisplayName>5.56x45mm Belt</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>5</Group>
+	</Pickup>
+	
+	<Pickup>
+		<DisplayName>Heavy Sniper MK II</DisplayName>
+		<WeaponAsset>WEAPON_HEAVYSNIPER_MK2</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_HEAVYSNIPER_MK2</PickupAsset>
+		<WheelIcon>ICON_HEAVYSNIPER_MK2</WheelIcon>
+		<AmmoDisplayName>.50 BMG</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>5</Group>
+	</Pickup>
+
+	<!-- The Doomdays Heist DLC -->
+	<Pickup>
+		<DisplayName>SNS Pistol MKII</DisplayName>
+		<WeaponAsset>WEAPON_SNSPISTOL_MK2</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_SNSPISTOL_MK2</PickupAsset>
+		<WheelIcon>ICON_SNSPISTOL_MK2</WheelIcon>
+		<AmmoDisplayName>.38</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_PISTOL_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>6</Group>
+	</Pickup>
+
+	<Pickup>
+		<DisplayName>Revolver MKII</DisplayName>
+		<WeaponAsset>WEAPON_REVOLVER_MK2</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_REVOLVER_MK2</PickupAsset>
+		<WheelIcon>ICON_REVOLVER_MK2</WheelIcon>
+		<AmmoDisplayName>.38</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_PISTOL_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>6</Group>
+	</Pickup>
+
+	<Pickup>
+		<DisplayName>Special Carbine MKII</DisplayName>
+		<WeaponAsset>WEAPON_SPECIALCARBINE_MK2</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_SPECIALCARBINE_MK2</PickupAsset>
+		<WheelIcon>ICON_SPECIALCARBINE_MK2</WheelIcon>
+		<AmmoDisplayName>5.56</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>3</Group>
+	</Pickup>
+
+	<Pickup>
+		<DisplayName>Bullpup Rifle MKII</DisplayName>
+		<WeaponAsset>WEAPON_BULLPUPRIFLE_MK2</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_BULLPUPRIFLE_MK2</PickupAsset>
+		<WheelIcon>ICON_BULLPUPRIFLE_MK2</WheelIcon>
+		<AmmoDisplayName>5.56</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="-0.1" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>3</Group>
+	</Pickup>
+
+	<Pickup>
+		<DisplayName>Pump Shotgun MKII</DisplayName>
+		<WeaponAsset>WEAPON_PUMPSHOTGUN_MK2</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_PUMPSHOTGUN_MK2</PickupAsset>
+		<WheelIcon>ICON_PUMPSHOTGUN_MK2</WheelIcon>
+		<AmmoDisplayName>12g</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_SHOTGUN_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>3</Group>
+	</Pickup>
+
+	<Pickup>
+		<DisplayName>Marksman Rifle MKII</DisplayName>
+		<WeaponAsset>WEAPON_MARKSMANRIFLE_MK2</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_MARKSMANRIFLE_MK2</PickupAsset>
+		<WheelIcon>ICON_MARKSMANRIFLE_MK2</WheelIcon>
+		<AmmoDisplayName>7.62</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>5</Group>
+	</Pickup>
+
+	<Pickup>
+		<DisplayName>Double-Action Revolver</DisplayName>
+		<WeaponAsset>WEAPON_DOUBLEACTION</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_DOUBLEACTION</PickupAsset>
+		<WheelIcon>ICON_DOUBLEACTION</WheelIcon>
+		<AmmoDisplayName>7.62</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_PISTOL_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>6</Group>
+	</Pickup>
+
+	<!-- After Hours DLC -->
+	<Pickup>
+		<DisplayName>Stone Hatchet</DisplayName>
+		<WeaponAsset>WEAPON_STONE_HATCHET</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_STONE_HATCHET</PickupAsset>
+		<WheelIcon>ICON_STONE_HATCHET</WheelIcon>
+		<AmmoDisplayName>N/A</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_MELEE_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.25" y="-0.1" z="0.01"/>
+		<Rotation x="-8.0" y="0.0" z="90.0"/>
+		<Group>7</Group>
 	</Pickup>
 
 	<!-- Arena War DLC -->
@@ -1129,7 +1142,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>1</Group>
+		<Group>6</Group>
 	</Pickup>
 
 	<Pickup>
@@ -1137,7 +1150,7 @@
 		<WeaponAsset>WEAPON_RAYCARBINE</WeaponAsset>
 		<PickupAsset>PICKUP_WEAPON_RAYCARBINE</PickupAsset>
 		<WheelIcon>ICON_RAYCARBINE</WheelIcon>
-		<AmmoDisplayName>Ray Carbine</AmmoDisplayName>
+		<AmmoDisplayName>5.56</AmmoDisplayName>
 		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
@@ -1150,12 +1163,12 @@
 		<WeaponAsset>WEAPON_RAYMINIGUN</WeaponAsset>
 		<PickupAsset>PICKUP_WEAPON_RAYMINIGUN</PickupAsset>
 		<WheelIcon>ICON_RAYMINIGUN</WheelIcon>
-		<AmmoDisplayName>Ray Minigun</AmmoDisplayName>
+		<AmmoDisplayName>7.62 MNG</AmmoDisplayName>
 		<PickupSFX>HUD_CUSTOM_PICK_UP_WEAPON_MASTER</PickupSFX>
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="0.0" y="-0.04" z="0.0"/>
+		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>4</Group>
 	</Pickup>
 
 	<!-- The Diamond Casino Heist DLC -->
@@ -1169,7 +1182,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>1</Group>
+		<Group>6</Group>
 	</Pickup>
 
 	<Pickup>
@@ -1180,9 +1193,9 @@
 		<AmmoDisplayName>.38</AmmoDisplayName>
 		<PickupSFX>HUD_CUSTOM_PICK_UP_PISTOL_MASTER</PickupSFX>
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Offset x="-0.04" y="-0.02" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>1</Group>
+		<Group>6</Group>
 	</Pickup>
 
 	<Pickup>
@@ -1195,7 +1208,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="-0.1" y="-0.05" z="0.0"/>
 		<Rotation x="180.0" y="-120.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>5</Group>
 	</Pickup>
 
 	<!-- The Cayo Perico Heist DLC -->
@@ -1209,7 +1222,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="-0.1" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>3</Group>
 	</Pickup>
 
 	<Pickup>
@@ -1220,9 +1233,9 @@
 		<AmmoDisplayName>12g</AmmoDisplayName>
 		<PickupSFX>HUD_CUSTOM_PICK_UP_SHOTGUN_MASTER</PickupSFX>
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
-		<Offset x="0.0" y="0.0" z="-0.05"/>
+		<Offset x="0.0" y="0.0" z="0.05"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>3</Group>
 	</Pickup>
 
 	<Pickup>
@@ -1235,7 +1248,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>1</Group>
+		<Group>6</Group>
 	</Pickup>
 	
 	<!-- The Contract DLC -->
@@ -1249,7 +1262,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="-0.1" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>3</Group>
 	</Pickup>
 	
 	<Pickup>
@@ -1262,7 +1275,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>1</Group>
+		<Group>6</Group>
 	</Pickup>
 	
 	<Pickup>
@@ -1275,7 +1288,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>4</Group>
 	</Pickup>
 	
 	<Pickup>
@@ -1288,7 +1301,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="-0.1" y="-0.05" z="0.0"/>
 		<Rotation x="180.0" y="-120.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>5</Group>
 	</Pickup>
 
 	<!-- Criminal Enterprises DLC -->
@@ -1302,7 +1315,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>1</Group>
+		<Group>6</Group>
 	</Pickup>
 
 	<Pickup>
@@ -1315,7 +1328,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>3</Group>
 	</Pickup>
 
 	<Pickup>
@@ -1328,7 +1341,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>5</Group>
 	</Pickup>
 
 	<!-- Los Santos Drug Wars DLC -->
@@ -1342,7 +1355,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>1</Group>
+		<Group>6</Group>
 	</Pickup>
 
 	<Pickup>
@@ -1355,7 +1368,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="-0.3" y="-0.05" z="0.0"/>
 		<Rotation x="0.0" y="270.0" z="-0.0"/>
-		<Group>2</Group>
+		<Group>7</Group>
 	</Pickup>
 
 	<Pickup>
@@ -1368,7 +1381,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>4</Group>
 	</Pickup>
 
 	<!-- Does not have pickup -->
@@ -1410,7 +1423,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>3</Group>
 	</Pickup>
 
 	<Pickup>
@@ -1423,7 +1436,7 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>1</Group>
+		<Group>6</Group>
 	</Pickup>
 
 	<Pickup>
@@ -1436,6 +1449,34 @@
 		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
 		<Offset x="0.0" y="0.0" z="0.0"/>
 		<Rotation x="0.0" y="0.0" z="0.0"/>
-		<Group>2</Group>
+		<Group>4</Group>
+	</Pickup>
+
+	<!-- Bottom Dollar Bounties DLC -->
+	<Pickup>
+		<DisplayName>The Shocker</DisplayName>
+		<WeaponAsset>WEAPON_STUNROD</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_STUNROD</PickupAsset>
+		<WheelIcon>ICON_STUNROD</WheelIcon>
+		<AmmoDisplayName>N/A</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_MELEE_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="-0.13" y="0.0" z="0.0"/>
+		<Rotation x="8.0" y="0.0" z="-90.0"/>
+		<Group>7</Group>
+	</Pickup>
+
+	<!-- Agents of Sabotage DLC -->
+	<Pickup>
+		<DisplayName>El Strickler</DisplayName>
+		<WeaponAsset>WEAPON_STRICKLER</WeaponAsset>
+		<PickupAsset>PICKUP_WEAPON_STRICKLER</PickupAsset>
+		<WheelIcon>ICON_STRICKLER</WheelIcon>
+		<AmmoDisplayName>5.56x45</AmmoDisplayName>
+		<PickupSFX>HUD_CUSTOM_PICK_UP_RIFLE_MASTER</PickupSFX>
+		<AmmoPickupSFX>HUD_CUSTOM_PICK_UP_BULLETS_MASTER</AmmoPickupSFX>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Group>3</Group>
 	</Pickup>
 </PickupData>

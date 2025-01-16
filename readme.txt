@@ -10,6 +10,9 @@ Updating 20 DLC weapons:
 + The Contract DLC: Heavy Rifle, Stun Gun MP, Fertilizer Can, (*)Compact EMP Launcher
 + Criminal Enterprises DLC: Metal Detector, Service Carbine, Precision Rifle
 + Los Santos Drug Wars DLC: WM 29 Pistol, Candy Cane, Coil Railgun, Acid Package
++ San Andreas Mercenaries DLC: Tactical SMG
++ The Chop ShopDLC: Battle Rifle, Hacking Device, Snowball Launcher
+
 (*): So I dug deeper and discovered the .ydr files of Compact EMP Launcher (w_lr_compactml.ydr & w_lr_compactml_hi.ydr) don't have "Bounds" like other weapons --> I guess it's the reason why its pickup model couldn't be drawn as an individual object. Unless the next dlc_patch is released or someone is generous enough to redo its .ydr, then it is what it is. I don't know how to, but am happy with the current state anyway.
 
 Customized 8 slots (rearranged, based on michelangelo777):
@@ -28,6 +31,9 @@ Or 4 slots (original of InfamousSabre):
 + 3: Throwable
 
 Changelog:
+0.8.alpha (GTA V v1.67 San Andreas Mercenaries - 1.68 The Chop Shop)
++ Add 4 new DLC weapons
+
 0.7.alpha (GTA V v1.66 Los Santos Drug Wars)
 + Add 4 new DLC weapons
 + Fix the position of Micro SMG, Golf Club, Pool Cue, Baseball Bat

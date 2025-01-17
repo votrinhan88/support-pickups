@@ -1452,7 +1452,7 @@
 		<Group>4</Group>
 	</Pickup>
 
-	<!--  Bottom Dollar Bounties DLC -->
+	<!-- Bottom Dollar Bounties DLC -->
 	<Pickup>
 		<DisplayName>The Shocker</DisplayName>
 		<WeaponAsset>WEAPON_STUNROD</WeaponAsset>
@@ -1466,7 +1466,7 @@
 		<Group>7</Group>
 	</Pickup>
 
-	<!-- Agents of Sabotage -->
+	<!-- Agents of Sabotage DLC -->
 	<Pickup>
 		<DisplayName>El Strickler</DisplayName>
 		<WeaponAsset>WEAPON_STRICKLER</WeaponAsset>

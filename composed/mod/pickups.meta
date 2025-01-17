@@ -3697,6 +3697,38 @@
       </Rewards>
     </Item>
     <Item type="CPickupData">
+      <Name>PICKUP_PORTABLE_CRATE_FIXED_INCAR</Name>
+      <Model>PROP_DRUG_PACKAGE</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="0.000000" />
+      <CollectionRadiusFirstPerson value="2.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="0.000000" />
+      <GlowGreen value="1.000000" />
+      <GlowBlue value="0.150000" />
+      <GlowIntensity value="0.500000" />
+      <DarkGlowIntensity value="0.500000" />
+      <MPGlowIntensity value="0.500000" />
+      <MPDarkGlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_PELVIS</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="90.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>AlwaysFixed CollectableOnFoot CollectableInCar CollectableInBoat CollectableInPlane InvisibleWhenCarried</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+        <Item>ACTION_AUDIO_CUSTOM</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions>
+        <Item>ACTION_GROUP_INCAR</Item>
+        <Item>ACTION_AUDIO_CUSTOM</Item>
+      </InCarPickupActions>
+      <OnShotPickupActions />
+      <Rewards />
+    </Item>
+    <Item type="CPickupData">
       <Name>PICKUP_WEAPON_MACHETE</Name>
       <Model>w_me_machette_lr</Model>
       <GenerationRange value="80.000000" />

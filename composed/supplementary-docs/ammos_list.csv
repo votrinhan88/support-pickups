@@ -61,7 +61,9 @@ AMMO_SNOWBALL,mpchristmas2,patch,weaponsnowball.meta,./vanilla/root/update/updat
 AMMO_PIPEBOMB,mpbiker,patch,weaponpipebomb.meta,./vanilla/root/update/update.rpf/dlc_patch/mpbiker/common/data/ai/weaponpipebomb.meta
 AMMO_RAYPISTOL,mpchristmas2018,patch,weapons_spacerangers.meta,./vanilla/root/update/update.rpf/dlc_patch/mpchristmas2018/common/data/ai/weapons_spacerangers.meta
 AMMO_HAZARDCAN,mpheist3,base,weapon_hazardcan.meta,./vanilla/root/update/x64/dlcpacks/mpheist3/dlc.rpf/common/data/ai/weapon_hazardcan.meta
+AMMO_TRANQUILIZER,mpheist3,base,weapon_tranquilizer.meta,./vanilla/root/update/x64/dlcpacks/mpheist3/dlc.rpf/common/data/ai/weapon_tranquilizer.meta
 AMMO_EMPLAUNCHER,mpsecurity,patch,weapons_emplauncher.meta,./vanilla/root/update/update.rpf/dlc_patch/mpsecurity/common/data/ai/weapons_emplauncher.meta
+AMMO_FERTILIZERCAN,mpsecurity,base,weapon_fertilizercan.meta,./vanilla/root/update/x64/dlcpacks/mpsecurity/dlc.rpf/common/data/ai/weapon_fertilizercan.meta
 AMMO_ACIDPACKAGE,mpchristmas3,base,weapon_acidpackage.meta,./vanilla/root/update/x64/dlcpacks/mpchristmas3/dlc.rpf/common/data/ai/weapon_acidpackage.meta
 AMMO_RAILGUNXM3,mpchristmas3,base,weapon_railgunxm3.meta,./vanilla/root/update/x64/dlcpacks/mpchristmas3/dlc.rpf/common/data/ai/weapon_railgunxm3.meta
 AMMO_SNOWLAUNCHER,mp2023_02,base,weapon_snowlauncher.meta,./vanilla/root/update/x64/dlcpacks/mp2023_02/dlc.rpf/common/data/ai/weapon_snowlauncher.meta

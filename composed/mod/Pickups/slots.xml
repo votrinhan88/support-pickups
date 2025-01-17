@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlotData>
+	<Slot name="None">
+		<AttachBone>SKEL_R_HAND</AttachBone>
+		<Offset x="0.0" y="0.0" z="0.0"/>
+		<Rotation x="0.0" y="0.0" z="0.0"/>
+		<Glow>
+			<Intensity>6.0</Intensity>
+			<Range>1.0</Range>
+			<Color red="0.2" green="1" blue="0.2"/>
+		</Glow>
+		<Group>0</Group>
+	</Slot>
+
+	<Slot name="Throw">
+		<AttachBone>SKEL_PELVIS</AttachBone>
+		<Offset x="-0.025" y="-0.15" z="-0.15"/>
+		<Rotation x="10.0" y="-100.0" z="15.0"/>
+		<Glow>
+			<Intensity>6.0</Intensity>
+			<Range>1.0</Range>
+			<Color red="0.2" green="0.2" blue="1"/>
+		</Glow>
+		<Group>1</Group>
+	</Slot>
+
+	<Slot name="Smg">
+		<AttachBone>SKEL_PELVIS</AttachBone>
+		<Offset x="0.0" y="0.0" z="-0.22"/>
+		<Rotation x="-90.0" y="15.0" z="0.0"/>
+		<Glow>
+			<Intensity>6.0</Intensity>
+			<Range>1.0</Range>
+			<Color red="1" green="0.2" blue="0.2"/>
+		</Glow>
+		<Group>2</Group>
+	</Slot>
+	<Slot name="RifleShotgun">
+		<AttachBone>SKEL_SPINE3</AttachBone>
+		<Offset x="0.13" y="-0.159" z="0.1"/>
+		<Rotation x="0.0" y="150.0" z="10.0"/>
+		<Glow>
+			<Intensity>6.0</Intensity>
+			<Range>1.0</Range>
+			<Color red="1" green="1" blue="0.2"/>
+		</Glow>
+		<Group>3</Group>
+	</Slot>
+	
+	<Slot name="Heavy">
+		<AttachBone>SKEL_SPINE3</AttachBone>
+		<Offset x="0.17" y="-0.161" z="0.0"/>
+		<Rotation x="0.0" y="200.0" z="10.0"/>
+		<Glow>
+			<Intensity>6.0</Intensity>
+			<Range>1.0</Range>
+			<Color red="1" green="0.2" blue="0.2"/>
+		</Glow>
+		<Group>4</Group>
+	</Slot>
+
+	<Slot name="SniperMGMisc">
+		<AttachBone>SKEL_SPINE3</AttachBone>
+		<Offset x="0.25" y="-0.146" z="-0.05"/>
+		<Rotation x="0.0" y="150.0" z="10.0"/>
+		<Glow>
+			<Intensity>6.0</Intensity>
+			<Range>1.0</Range>
+			<Color red="0.2" green="0.2" blue="1"/>
+		</Glow>
+		<Group>5</Group>
+	</Slot>
+
+	<Slot name="Handgun">
+		<AttachBone>SKEL_PELVIS</AttachBone>
+		<Offset x="-0.1" y="0.16" z="-0.1"/>
+		<Rotation x="-25.0" y="15.0" z="0.0"/>
+		<Glow>
+			<Intensity>6.0</Intensity>
+			<Range>1.0</Range>
+			<Color red="0.2" green="0.2" blue="1"/>
+		</Glow>
+		<Group>6</Group>
+	</Slot>
+
+	<Slot name="Melee">
+		<AttachBone>SKEL_PELVIS</AttachBone>
+		<Offset x="0.0" y="0.0" z="0.22"/>
+		<Rotation x="-90.0" y="10.0" z="0.0"/>
+		<Glow>
+			<Intensity>6.0</Intensity>
+			<Range>1.0</Range>
+			<Color red="1" green="0.2" blue="0.2"/>
+		</Glow>
+		<Group>7</Group>
+	</Slot>
+</SlotData>

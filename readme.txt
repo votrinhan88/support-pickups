@@ -11,7 +11,9 @@ Updating 20 DLC weapons:
 + Criminal Enterprises DLC: Metal Detector, Service Carbine, Precision Rifle
 + Los Santos Drug Wars DLC: WM 29 Pistol, Candy Cane, Coil Railgun, Acid Package
 + San Andreas Mercenaries DLC: Tactical SMG
-+ The Chop ShopDLC: Battle Rifle, Hacking Device, Snowball Launcher
++ The Chop Shop DLC: Battle Rifle, Hacking Device, Snowball Launcher
++ Bottom Dollar Bounties DLC: The Shocker
++ Agents of Sabotage DLC: El Strickler
 
 (*): So I dug deeper and discovered the .ydr files of Compact EMP Launcher (w_lr_compactml.ydr & w_lr_compactml_hi.ydr) don't have "Bounds" like other weapons --> I guess it's the reason why its pickup model couldn't be drawn as an individual object. Unless the next dlc_patch is released or someone is generous enough to redo its .ydr, then it is what it is. I don't know how to, but am happy with the current state anyway.
 
@@ -31,6 +33,9 @@ Or 4 slots (original of InfamousSabre):
 + 3: Throwable
 
 Changelog:
+1.70.beta (GTA V v1.69 Bottom Dollar Bounties - 1.70 Agents of Sabotage)
++ Add 2 new DLC weapons
+
 0.8.alpha (GTA V v1.67 San Andreas Mercenaries - 1.68 The Chop Shop)
 + Add 4 new DLC weapons
 
@@ -67,14 +72,21 @@ __________________________________________________
 0. IMPORTANT
 REQUIRED: Pickups 2.2 by InfamousSabre. My work only updates the new DLC weapons by overwriting his mod and WILL NOT WORK WITHOUT HIS MOD (AND BREAK YOUR GAME).
 
-1. INSTALLATION:
-+ Automatic: use OpenIV to install the OIV package. Strongly recommend using 'mods' folder; will delete DamageEngine.asi and DamageEngine.ini
-+ Manual (If you wish to know in details which files I've altered): Extract the .oiv package as .zip, then copy & replace files correspondingly. I've organized every files such that your game suffered the least amount of change, to avoid mod conflicts.
-+ Optional 4 slots: copy & replace optional pickups.xml and slots.xml to root/Pickups
+1. INSTALLATION: HAVE CHANGED! PLEASE READ CAREFULLY
++ Backup your two files: ./mods/update/update.rpf/common/data/ai/weapons.meta and ./mods/update/update.rpf/common/data/pickups.meta
++ Download Pickups 2.2 by InfamousSabre but DO NOT INSTALL THROUGH OpenIV
++ Extract Pickups 2.2 as archive
++ Move ONLY the folder Pickups and the files Pickups.asi, Pickups.ini to GTA V folder
++ DO NOT INSTALL ANYTHING ELSE. Now we move on to my update.
++ Extract my Support for InfamousSabre's Pickups
++ Move the folder from ./composed/mod/Pickups to GTA V/Pickups
++ Move ./composed/mod/pickups.meta to ./mods/update/update.rpf/common/data/pickups.meta
++ Move ./composed/mod/weapons.meta to ./mods/update/update.rpf/common/data/ai/weapons.meta
++ Optional 4 slots: move the files pickups.xml and slots.xml from ./composed/optional-4-slots GTA V/Pickups.
 
 2. UNINSTALLATION
-+ Automatic: use OpenIV to install the OIV package. Strongly recommend using 'mods' folder; will delete Pickups.asi but keep Pickups.ini
-+ Manual: Extract the .oiv package as .zip, then copy & replace files correspondingly.
++ Delete Pickups/, Pickups.asi, Pickups.ini
++ Recover your previously backed-up: ./mods/update/update.rpf/common/data/ai/weapons.meta and ./mods/update/update.rpf/common/data/pickups.meta
 
 3. CREDITS
 InfamousSabre for Pickups https://www.gta5-mods.com/scripts/pickups (I have included his README together)

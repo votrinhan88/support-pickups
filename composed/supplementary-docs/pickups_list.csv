@@ -117,6 +117,7 @@ PICKUP_WEAPON_SNOWBALL,mpchristmas2,patch,./vanilla/root/update/update.rpf/dlc_p
 PICKUP_WEAPON_COMBATPDW,mpluxe,base,./vanilla/root/update/x64/dlcpacks/mpluxe/dlc.rpf/common/data/pickups.meta
 PICKUP_WEAPON_KNUCKLE,mpluxe2,base,./vanilla/root/update/x64/dlcpacks/mpluxe2/dlc.rpf/common/data/pickups.meta
 PICKUP_WEAPON_MARKSMANPISTOL,mpluxe2,base,./vanilla/root/update/x64/dlcpacks/mpluxe2/dlc.rpf/common/data/pickups.meta
+PICKUP_PORTABLE_CRATE_FIXED_INCAR,mpreplay,base,./vanilla/root/update/x64/dlcpacks/mpreplay/dlc.rpf/common/data/pickups.meta
 PICKUP_WEAPON_MACHETE,mplowrider,base,./vanilla/root/update/x64/dlcpacks/mplowrider/dlc.rpf/common/data/pickups.meta
 PICKUP_WEAPON_MACHINEPISTOL,mplowrider,base,./vanilla/root/update/x64/dlcpacks/mplowrider/dlc.rpf/common/data/pickups.meta
 PICKUP_WEAPON_FLASHLIGHT,mphalloween,base,./vanilla/root/update/x64/dlcpacks/mphalloween/dlc.rpf/common/data/pickups.meta

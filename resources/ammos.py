@@ -94,6 +94,8 @@ AMMOS_CONVERSION = {
     'AMMO_PIPEBOMB': {'update': {'AmmoMax': 4, 'AmmoMax50': 6, 'AmmoMax100': 8},},
     'AMMO_RAYPISTOL': {'update': {'AmmoMax': 4, 'AmmoMax50': 6, 'AmmoMax100': 8},},
     'AMMO_HAZARDCAN': {},
+    'AMMO_TRANQUILIZER': {},
+    'AMMO_FERTILIZERCAN': {},
     'AMMO_EMPLAUNCHER': {'update': {'AmmoMax': 4, 'AmmoMax50': 6, 'AmmoMax100': 8},},
     'AMMO_ACIDPACKAGE': {'update': {'AmmoMax': 4, 'AmmoMax50': 6, 'AmmoMax100': 8},},
     'AMMO_RAILGUNXM3': {'update': {'AmmoMax': 4, 'AmmoMax50': 6, 'AmmoMax100': 8},},

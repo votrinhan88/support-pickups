@@ -23,6 +23,7 @@ WEAPONS_CONVERSION = {
     'WEAPON_STONE_HATCHET': {'metadata': {'name': 'Stone Hatchet',          'Group': 'Melee'}},
     'WEAPON_CANDYCANE':     {'metadata': {'name': 'Candy Cane',             'Group': 'Melee'}},
     'WEAPON_BOTTLE':        {'metadata': {'name': 'Bottle',                 'Group': 'Melee'}},
+    'WEAPON_HANDCUFFS':     {'metadata': {'name': 'Handcuffs',              'Group': 'Melee'}},
     
     # Handgun
     'WEAPON_PISTOL': {
@@ -104,6 +105,10 @@ WEAPONS_CONVERSION = {
     'WEAPON_RAYPISTOL': {
         'update': {'AmmoInfo': 'AMMO_RAYPISTOL'},
         'metadata': {'name': 'Up-n-Atomizer', 'Group': 'Handgun', 'counterpart': 'H&K P7M13'},
+    },
+    'WEAPON_TRANQUILIZER': {
+        'update': {'FireType': 'DELAYED_HIT', 'Speed': 60},
+        'metadata': {'name': 'Tranquilizer', 'Group': 'Handgun'},
     },
     'WEAPON_STUNGUN_MP': {
         'update': {'FireType': 'DELAYED_HIT', 'AmmoInfo': 'AMMO_STUNGUN', 'Speed': 70},

@@ -1,5 +1,6 @@
 # support-pickups
-**Support for InfamousSabre's Pickups GTA V Mod - v1.70.beta**
+**Support for InfamousSabre's Pickups GTA V Mod - v1.70.beta**. [See mod at gta5-mods.com](https://www.gta5-mods.com/misc/support-for-infamoussabre-s-pickups)
+
 ### Features
 Remember InfamousSabre's **[Pickups](https://www.gta5-mods.com/scripts/pickups)** mod? Unfortunately his mod does not support the latest DLC weapons so I tried continuing his work.
 + **Updating 26 DLC weapons** and their bullet speeds up to **GTA V 1.70**.
@@ -40,7 +41,7 @@ Remember InfamousSabre's **[Pickups](https://www.gta5-mods.com/scripts/pickups)*
 
 
 ### Installation
-+ **REQUIRED: [Pickups 2.2 by InfamousSabre](https://www.gta5-mods.com/scripts/pickups).** I only update the new weapons, which WILL NOT WORK WITHOUT HIS MOD (AND BREAK YOUR GAME).
++ **REQUIRED: [Pickups 2.2](https://www.gta5-mods.com/scripts/pickups)** by InfamousSabre. I only update the new weapons, which WILL NOT WORK WITHOUT HIS MOD (AND BREAK YOUR GAME).
 + Backup your two files: `GTA V/mods/update/update.rpf/common/data/ai/weapons.meta` and `GTA V/mods/update/update.rpf/common/data/pickups.meta`
 + Download Pickups 2.2 by InfamousSabre. **DO NOT INSTALL THROUGH OPENIV BUT EXTRACT AS ARCHIVE.**
 + Move the folder `Pickups` and the files `Pickups.asi`, `Pickups.ini` to GTA V folder

@@ -1,5 +1,5 @@
 <b>support-pickups</b>
-<b>Support for InfamousSabre's Pickups GTA V Mod - v1.70.2</b> <a href="https://github.com/votrinhan88/support-pickups">GitHub</a>
+<b>Support for InfamousSabre's Pickups GTA V Mod - v1.70.3</b> <a href="https://github.com/votrinhan88/support-pickups">GitHub</a>
 
 <b>Features</b>
 Remember InfamousSabre's <b><a href="https://www.gta5-mods.com/scripts/pickups">Pickups</a></b> mod? Unfortunately his mod does not support the latest DLC weapons so I tried continuing his work.
@@ -16,8 +16,9 @@ Remember InfamousSabre's <b><a href="https://www.gta5-mods.com/scripts/pickups">
 6. Extract my <b>Support for InfamousSabre's Pickups</b> mod
 7. Move the folder `./composed/mod/Pickups` to `GTA V/Pickups`
 8. Move everything inside `./weapon-merger/composed/merged/update/update.rpf/dlc_patch` to `GTA V/mods/update/update.rpf/dlc_patch`
-9. Move everything inside `./composed/mod/update/update.rpf` to `GTA V/mods/update/update.rpf`
-10. Optional 4 slots: move the files `pickups.xml` and `slots.xml` from `./composed/optional-4-slots` to `GTA V/Pickups`.
+9. (Optional) Patch for LCPP: Move `./composed/patch-lcpp/update/update.rpf/dlc_patch/mpheist4/content.xml` to `GTA V/mods/update/update.rpf/dlc_patch/mpheist4`
+10. Move everything inside `./composed/mod/update/update.rpf` to `GTA V/mods/update/update.rpf`
+11. Optional 4 slots: move the files `pickups.xml` and `slots.xml` from `./composed/optional-4-slots` to `GTA V/Pickups`.
 
 <b>Uninstallation</b>
 1. Delete `Pickups/`, `Pickups.asi`, `Pickups.ini`
@@ -28,12 +29,12 @@ ____+ These should have reverted the DLCs under `to-patch` in `./composed/uninst
 5. For the remaining DLCs, i.e. under `to-delete` in `./weapon-merger/composed/uninstall-content-dlcpatch.yaml`, you can safely delete the `content.xml` file manually.
 ____+ Originally these files do not exist in the vanilla version
 
-
 <b>Changelog</b>
-+ 1.70.2 (GTA V v1.69 Bottom Dollar Bounties - 1.70 Agents of Sabotage)
++ 1.70.3 (GTA V v1.69 Bottom Dollar Bounties - 1.70 Agents of Sabotage)
 ____+ Add 2 new DLC weapons
 ____+ Add Python script to merge all weapon-.meta and pickups.meta
 ____+ Add supplementary resources and documents.
+____+ Add patch for LCPP.
 
 <b>Credits</b>
 + InfamousSabre for the mod <a href="https://www.gta5-mods.com/scripts/pickups">Pickups</a>

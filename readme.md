@@ -1,5 +1,5 @@
 # support-pickups
-**Support for InfamousSabre's Pickups GTA V Mod - v1.70.2**. [See mod at gta5-mods.com](https://www.gta5-mods.com/misc/support-for-infamoussabre-s-pickups)
+**Support for InfamousSabre's Pickups GTA V Mod - v1.70.3**. [See mod at gta5-mods.com](https://www.gta5-mods.com/misc/support-for-infamoussabre-s-pickups)
 
 ### Features
 Remember InfamousSabre's **[Pickups](https://www.gta5-mods.com/scripts/pickups)** mod? Unfortunately his mod does not support the latest DLC weapons so I tried continuing his work.
@@ -49,8 +49,9 @@ Remember InfamousSabre's **[Pickups](https://www.gta5-mods.com/scripts/pickups)*
 6. Extract my **Support for InfamousSabre's Pickups** mod
 7. Move the folder `./composed/mod/Pickups` to `GTA V/Pickups`
 8. Move everything inside `./weapon-merger/composed/merged/update/update.rpf/dlc_patch` to `GTA V/mods/update/update.rpf/dlc_patch`
-9. Move everything inside `./composed/mod/update/update.rpf` to `GTA V/mods/update/update.rpf`
-10. Optional 4 slots: move the files `pickups.xml` and `slots.xml` from `./composed/optional-4-slots` to `GTA V/Pickups`.
+9. (Optional) Patch for LCPP: Move `./composed/patch-lcpp/update/update.rpf/dlc_patch/mpheist4/content.xml` to `GTA V/mods/update/update.rpf/dlc_patch/mpheist4`
+10. Move everything inside `./composed/mod/update/update.rpf` to `GTA V/mods/update/update.rpf`
+11. Optional 4 slots: move the files `pickups.xml` and `slots.xml` from `./composed/optional-4-slots` to `GTA V/Pickups`.
 
 ### Uninstallation
 1. Delete `Pickups/`, `Pickups.asi`, `Pickups.ini`
@@ -63,10 +64,11 @@ Remember InfamousSabre's **[Pickups](https://www.gta5-mods.com/scripts/pickups)*
 
 
 ### Changelog
-+ 1.70.2 (GTA V v1.69 Bottom Dollar Bounties - 1.70 Agents of Sabotage)
++ 1.70.3 (GTA V v1.69 Bottom Dollar Bounties - 1.70 Agents of Sabotage)
     + Add 2 new DLC weapons
     + Add Python script to merge all weapon-.meta and pickups.meta
     + Add supplementary resources and documents.
+    + Add patch for LCPP.
     <details><summary>Previous versions</summary>
 
     + 0.8.alpha (GTA V v1.67 San Andreas Mercenaries - 1.68 The Chop Shop)
